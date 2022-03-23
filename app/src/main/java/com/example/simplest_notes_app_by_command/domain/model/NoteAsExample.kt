@@ -8,5 +8,4 @@ data class NoteAsExample(
     val title: String = "",
     val content: String = "",
     @PrimaryKey val id: Int? = null
-) {
-}
+)

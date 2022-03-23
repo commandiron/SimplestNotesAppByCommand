@@ -39,7 +39,4 @@ fun NavigationGraph(
                 navController = navController)
         }
     }
-
-
-
 }
