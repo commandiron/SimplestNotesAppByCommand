@@ -12,7 +12,7 @@ Native Android simple chat application written in Kotlin using Jetpack Compose.
 * Structure 🌲
 |App Package Structure|
 |---------------------|
-|<img src="" width="250" height="125">|
+|<img src="https://user-images.githubusercontent.com/50905347/159722112-a3734c00-7e1a-4641-9dc3-fea0b8e37df4.png" width="250" height="125">|
 
 * Application - Features ☕
    * Get - Insert - Delete Note with Title and Content
