@@ -2,6 +2,9 @@
 
 Native Android simplest notes application written in Kotlin using Jetpack Compose with Android Room library.
 
+* Aim 🏹
+The aim of this project is to write a note application with as little code as possible while keeping modern code architecture techniques.
+
 * Screenshots 🖼️
 
 |List|Edit|
