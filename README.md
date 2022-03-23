@@ -1,6 +1,6 @@
 # simplest_notes_app_by_command
 
-Native Android simple chat application written in Kotlin using Jetpack Compose.
+Native Android simplest notes application written in Kotlin using Jetpack Compose with Android Room library.
 
 * Screenshots 🖼️
 
@@ -21,6 +21,7 @@ Native Android simple chat application written in Kotlin using Jetpack Compose.
 
 * Tech-stack ⚛️
     * [Kotlin](https://kotlinlang.org/) + [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - perform background operation
+    * [Android Room](https://developer.android.com/training/data-storage/room)
     * [Flows](https://developer.android.com/kotlin/flow)
     * [Hilt](https://github.com/google/dagger) - DI
     * [Jetpack](https://developer.android.com/jetpack)
