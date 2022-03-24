@@ -1,4 +1,4 @@
-# simplest_notes_app_by_command
+# SimplestNotesApp
 
 Native Android simplest notes application written in Kotlin using Jetpack Compose with Android Room library.
 
