@@ -1,4 +1,4 @@
-# SimplestNotesApp <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="80" height="20">
+# SimplestNotesApp <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="80" height="21">
 
 Native Android simplest notes application written in Kotlin using Jetpack Compose with Android Room library.
 
